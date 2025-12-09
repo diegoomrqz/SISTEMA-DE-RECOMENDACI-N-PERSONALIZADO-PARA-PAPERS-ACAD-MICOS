@@ -1,0 +1,7 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "total_papers": 43453,
+  "fecha_generacion": "2025-11-29 22:11:48",
+  "device_used": "cuda"
+}
